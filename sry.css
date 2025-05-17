@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Molle&family=Playwrite+HR+Lijeva+Guides&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+body{
+
+    background-color: pink;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+.div{
+    height: 240px;
+    width: 320px;
+    background-color: rgba(100, 100, 100, 0.658);
+    color: whitesmoke;
+  font-family: "Molle", cursive;;
+border-radius: 5px;
+box-shadow: 5px 0px 5px 5px rgb(105, 105, 105);
+text-align: center;
+padding: 10px;
+ margin-top: 200px; 
+ margin-left: 550px; 
+ 
+
+}
+.buttons{
+    padding: 10px;
+margin: 20px;
+margin-left: 10px;
+}
+button{
+    background-color:rgba(100, 100, 100, 0.658) ;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   box-shadow: 4px 0px 4px 0px whitesmoke;
+    color: whitesmoke;
+    border: none;
+    height: 50px;
+    width: 150px;
+}
+button:hover{
+    cursor: pointer;
+}
+
+p{
+    text-align: left;
+}
